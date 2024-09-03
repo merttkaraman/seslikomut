@@ -56,4 +56,3 @@ while 1:
     voice = record()
     print(voice)
     response(voice)
-
